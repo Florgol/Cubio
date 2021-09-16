@@ -1,5 +1,5 @@
 # Cubio
-small unity game
+I made a small unity game
 
 To install on Windows, download the installer and execute it.
 
